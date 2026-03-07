@@ -3,7 +3,7 @@
 A simple desktop calculator built using Java Swing.
 
 ## Screenshot
-![Calculator UI](screenshot.png)
+![Calculator UI](Screenshot.png)
 
 ## Features
 - Addition, subtraction, multiplication, division
