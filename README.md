@@ -1,2 +1,25 @@
-# Java_Swing_Basic_Calculator
-A simple calculator built with Java Swing
+# Java Swing Basic Calculator
+
+A simple desktop calculator built using Java Swing.
+
+## Screenshot
+![Calculator UI](screenshot.png)
+
+## Features
+- Addition, subtraction, multiplication, division
+- Percentage calculation
+- Positive / negative toggle
+- Clean Swing interface
+
+## How to Run
+
+Compile:
+
+javac Calc.java
+
+Run:
+
+java Calc
+
+## Author
+Mohith M
