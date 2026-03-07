@@ -15,11 +15,11 @@ A simple desktop calculator built using Java Swing.
 
 Compile:
 
-javac Calc.java
+javac calc.java
 
 Run:
 
-java Calc
+java calc
 
 ## Author
 Mohith M
