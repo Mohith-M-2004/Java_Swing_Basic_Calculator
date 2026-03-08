@@ -68,7 +68,7 @@ This project was built to practice:
 
 ---
 
-##  Author
+## 👨‍💻 Author
 
 **Mohith M**
 
