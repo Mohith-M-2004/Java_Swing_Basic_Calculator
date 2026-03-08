@@ -20,7 +20,7 @@ public class calc {
         frame.setResizable(false);
         frame.setBackground(Color.BLACK);
         
-        ImageIcon image=new ImageIcon("calc.png");
+        ImageIcon image=new ImageIcon("calc_icon.png");
 		frame.setIconImage(image.getImage());
 		
 
