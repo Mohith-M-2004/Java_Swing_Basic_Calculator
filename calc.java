@@ -16,7 +16,7 @@ public class calc {
         frame.setSize(300,400);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLocationRelativeTo(null);
-        frame.setLayout(new BorderLayout(10,10));
+        frame.setLayout(new BorderLayout());
         frame.setResizable(false);
         frame.setBackground(Color.BLACK);
         
