@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 
-public class calc {
+public class Calculator {
 
     static JTextField display;
     static double firstNumber = 0;
@@ -20,7 +20,7 @@ public class calc {
         frame.setResizable(false);
         frame.setBackground(Color.BLACK);
         
-        ImageIcon image=new ImageIcon("calc_icon.png");
+        ImageIcon image = new ImageIcon("resources/calc_icon.png");
 		frame.setIconImage(image.getImage());
 		
 

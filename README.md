@@ -9,7 +9,7 @@ Designed as a beginner-friendly project to explore **Java GUI development, event
 
 ## 📸 Screenshot
 
-![Calculator UI](Screenshot.png)
+![Calculator UI](screenshots/Preview.png)
 
 ---
 
@@ -81,4 +81,3 @@ https://github.com/Mohith-M-2004
 
 Consider giving it a **star ⭐ on GitHub**.
 It helps others discover the project and motivates me in making improvements and building new projects.
-
